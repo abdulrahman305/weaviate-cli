@@ -4,3 +4,4 @@ twine
 click-params==0.3.0
 pytest
 urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
+authlib>=1.6.4 # not directly required, pinned by Snyk to avoid a vulnerability
